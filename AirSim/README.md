@@ -1,3 +1,5 @@
+![brake_front](https://user-images.githubusercontent.com/57869913/130597386-016d217d-1dc1-43a1-b24f-48e95a01f2a5.gif)
+
 
 ![fianl_test](https://user-images.githubusercontent.com/57869913/130596795-312436f8-724e-46cb-8595-fecc2a229ce2.gif)
 
