@@ -47,20 +47,11 @@ AirSim also provides access to depth images (just press the <b>1</b> key during
 the simulation) which, like the Lidar on today's self-driving cars, would
 provide a valuable additional source of information for avoiding collisions.
 
-# Credits
+# participants
 
-This code represents the combined work of two teams in Prof. Simon D. Levy's fall 2017 AI course 
-([CSCI 315](http://home.wlu.edu/~levys/courses/csci315f2017/)) at 
-Washington and Lee University (listed alphabetically):
+This code represents the final project at Ariel University:
 
-* Jack Baird 
-* Alex Cantrell 
-* Keith Denning 
-* Rajwol Joshi
-* Will McMurtry 
-* Jacob Rosen
+* Meir Rozenfeld
+* Avi Chickvashvili 
+* Tomer Dvir 
 
-# Acknowledgement
-
-We thank David Pfaff of the [W&L IQ Center](https://www.wlu.edu/iq-center) for
-providing the hardware on which we developed this project.
