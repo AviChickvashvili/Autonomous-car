@@ -35,16 +35,16 @@ Then, using the side cameras (right and left), we estimated the distance from th
 Once the vehicle was fitted with autonomous capabilities, the next step was to impart self-parking capability.
 
 
-In the first stage, the vehicle detects available parking (right and left) and parks forward:
+In the first stage, the vehicle detects available parking (right and left) and parks forward: <br>
 ![right park](https://user-images.githubusercontent.com/57869913/130614997-d20b8228-c98d-4006-86c6-56c5ba6ed54e.gif) ![left park](https://user-images.githubusercontent.com/57869913/130614516-51fc4e8b-9974-4511-aa79-7693df35bfdc.gif)
 
 
 
-Then, based on the availability of available parking, the vehicle enters a parking lot in reverse:
+Then, based on the availability of available parking, the vehicle enters a parking lot in reverse: <br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57869913/130614870-6a9cd96b-11d6-472c-b61c-8687e3e95484.gif)
 
 
-Once vertical parking has been achieved, it now remains to park horizontally to the road:
+Once vertical parking has been achieved, it now remains to park horizontally to the road: <br>
 ![horizontal](https://user-images.githubusercontent.com/57869913/130614000-14cc98d5-7884-4a8c-87d6-ea9c83cd42eb.gif)
 
 
